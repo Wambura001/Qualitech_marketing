@@ -1,0 +1,17 @@
+header {
+    background-color: burlywood;
+}
+
+header li {
+    display: inline;
+}
+
+.land {
+    height: 80vh;
+    background-color: antiquewhite;
+    /* display: flex; */
+}
+
+.land1 {
+    /* justify-content: center; */
+}
