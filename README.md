@@ -1,2 +1,2 @@
 # Qualitech_marketing
-This repository gives a vivid explanation of why your business needs Search Engine Optimisation to grow
+This is a Search Engine Optimisation agency. Want to know more about SEO? Visit our site today.
