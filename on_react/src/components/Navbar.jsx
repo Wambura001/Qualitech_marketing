@@ -8,10 +8,10 @@ class Navbar extends Component {
   return (
     <>
       <nav>
-        <a href="index.html"></a>
+        {/* <a href="index.html"></a> */}
         <h1>Kichwa</h1>
 
-        <div id='navbar'>
+        <div id='navbar' className={this.state.clicked ? "#navbar active" : "#navbar"}>
           <ul>
             <li><a href="index.html" className='active'>Home</a></li>
             <li><a href="index.html">Blog</a></li>
